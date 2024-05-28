@@ -257,7 +257,7 @@ def index():
         search_query = request.form['search_query']
         result = search_in_csv(search_query)
         if result:
-            return render_template('result.html', result=result)
+            return render_template('Result.html', result=result)
         else:
             return render_template('result.html', result=None)
     return render_template('medicine.html', form=form)
