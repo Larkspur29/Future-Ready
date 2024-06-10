@@ -2,6 +2,9 @@
 
 ## Overview
 MediPlus aims to create an integrated digital healthcare platform that addresses challenges in healthcare accessibility and information availability. It offers detailed medication information, an advanced symptom checker, a hospital locator, and a 24/7 healthbot. MediPlus leverages Flask, pandas, numpy, scikit-learn, and WTForms for these functionalities.
+## Preview
+
+![Mediplus-GoogleChrome2024-06-1023-07-10-ezgif com-video-to-gif-converter](https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/66fc87f0-b0bb-4968-b2f0-1634f5101c88)
 
 ## Key Features
 1. **Comprehensive Medication Information**
