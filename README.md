@@ -51,13 +51,3 @@ MediPlus aims to create an integrated digital healthcare platform that addresses
 
 ## Access the Website
 You can view the MediPlus platform at [mediplus.azurewebsites.net](https://mediplus.azurewebsites.net).
-
-## Contribution
-We welcome contributions from the community. If you have any suggestions, bug reports, or would like to contribute to the development of MediPlus, please open an issue or submit a pull request on our GitHub repository.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-By integrating these features, MediPlus empowers individuals to make informed decisions, improving health outcomes and satisfaction. Together, we can make healthcare more accessible and information more available to everyone.
