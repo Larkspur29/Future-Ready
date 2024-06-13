@@ -1,7 +1,11 @@
 # MediPlus
 
 ## Overview
-MediPlus aims to create an integrated digital healthcare platform that addresses challenges in healthcare accessibility and information availability. It offers detailed medication information, an advanced symptom checker, a hospital locator, and a 24/7 healthbot. MediPlus leverages Flask, pandas, numpy, scikit-learn, and WTForms for these functionalities.
+MediPlus aims to create an integrated digital healthcare platform that addresses challenges in healthcare accessibility and information availability. It offers detailed medication information, an advanced symptom checker, a hospital locator, and a 24/7 healthbot. MediPlus leverages Azure services extensively, including Visual Studio Code for code development, Azure App Services for hosting, and Azure AI Service Health Bot for the 24/7 healthbot. The platform is built using Flask, pandas, numpy, scikit-learn, and WTForms to deliver these functionalities efficiently.
+
+<img width="946" alt="Screenshot 2024-06-10 232509" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/e8a04fd7-abd9-422a-b1c1-541aeb2abf81">
+
+
 ## Preview
 
 ![Mediplus-GoogleChrome2024-06-1023-07-10-ezgif com-video-to-gif-converter](https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/66fc87f0-b0bb-4968-b2f0-1634f5101c88)
@@ -15,6 +19,8 @@ MediPlus aims to create an integrated digital healthcare platform that addresses
 <img width="960" alt="2" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/132f4898-2e8e-4c66-a3e9-27bb9373021e">
 
 **Azure App Services**
+
+
 
 <img width="960" alt="4" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/3dc2839f-2667-4888-97e3-4f42d392addd">
 <img width="960" alt="5" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/b08ed540-bcc1-4310-b660-91757ec73073">
@@ -34,17 +40,29 @@ https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/8a859
    - **Problem:** Limited access to reliable medical information.
    - **Solution:** MediPlus provides a comprehensive medication database with clear usage instructions, side effects, and user reviews, ensuring safe medication management.
 
+<img width="960" alt="image" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/757ed2ec-2fa7-46d3-8993-453151dc0fa8">
+
+
 2. **Advanced Symptom Checker**
    - **Problem:** Difficulty in self-diagnosing symptoms.
    - **Solution:** An advanced symptom checker analyzes symptoms using scikit-learn, providing potential diagnoses to reduce unnecessary doctor visits and early identification of conditions.
+  
+     
+<img width="960" alt="image" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/9bc48709-8bee-4f91-9e64-6da02fdb3e49">
 
 3. **Hospital Locator**
    - **Problem:** Finding nearby medical facilities in emergencies.
    - **Solution:** Utilizing pandas and numpy, a location-based hospital locator helps users find nearby facilities quickly with detailed information, critical for emergencies.
+<img width="960" alt="image" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/c8a417f7-8ab1-4ab9-88a4-b5e4b5f590ae">
+
+     
 
 4. **24/7 HealthBot Made with Azure AI Health Bot** 
    - **Problem:** Limited access to 24/7 medical assistance.
    - **Solution:** The MediPlus HealthBot offers continuous support, answering queries, providing medication information, and setting reminders via Flask and WTForms, enhancing patient confidence and adherence.
+  
+ <img width="960" alt="image" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/033d8ace-6ae6-4eef-9da7-1f72c51d211a">
+  
 
 ## Technologies Used
 - **Flask:** A micro web framework used for building the web application.
@@ -70,7 +88,9 @@ https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/8a859
    - Use your location to find nearby hospitals with detailed information about each facility.
 
 4. **HealthBot:**
+   - Built with the help of Azure AI service---Health Bot
    - Ask health-related queries, get medication information, and set reminders for medications and appointments.
+   
 
 ## Access the Website
 You can view the MediPlus platform at [mediplus.azurewebsites.net](https://mediplus.azurewebsites.net).
