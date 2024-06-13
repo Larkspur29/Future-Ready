@@ -25,8 +25,8 @@ MediPlus aims to create an integrated digital healthcare platform that addresses
 
 
 
+https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/8a859755-b00b-4f6c-8d57-03010bfd3ffb
 
-Uploading Mediplus - Google Chrome 2024-06-13 17-01-47.mp4…
 
 
 ## Key Features
