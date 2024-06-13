@@ -6,6 +6,29 @@ MediPlus aims to create an integrated digital healthcare platform that addresses
 
 ![Mediplus-GoogleChrome2024-06-1023-07-10-ezgif com-video-to-gif-converter](https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/66fc87f0-b0bb-4968-b2f0-1634f5101c88)
 
+
+## Azure Services used:
+
+**Visual Studio Code:**
+
+
+<img width="960" alt="2" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/132f4898-2e8e-4c66-a3e9-27bb9373021e">
+
+**Azure App Services**
+
+<img width="960" alt="4" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/3dc2839f-2667-4888-97e3-4f42d392addd">
+<img width="960" alt="5" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/b08ed540-bcc1-4310-b660-91757ec73073">
+
+## Azure AI SERVICE:
+**Health Bot**
+<img width="960" alt="3" src="https://github.com/Larkspur29/Future-Ready-Talent-Project/assets/127820290/92b40259-c231-4477-a85c-d10b28618247">
+
+
+
+
+Uploading Mediplus - Google Chrome 2024-06-13 17-01-47.mp4…
+
+
 ## Key Features
 1. **Comprehensive Medication Information**
    - **Problem:** Limited access to reliable medical information.
@@ -19,7 +42,7 @@ MediPlus aims to create an integrated digital healthcare platform that addresses
    - **Problem:** Finding nearby medical facilities in emergencies.
    - **Solution:** Utilizing pandas and numpy, a location-based hospital locator helps users find nearby facilities quickly with detailed information, critical for emergencies.
 
-4. **24/7 HealthBot**
+4. **24/7 HealthBot Made with Azure AI Health Bot** 
    - **Problem:** Limited access to 24/7 medical assistance.
    - **Solution:** The MediPlus HealthBot offers continuous support, answering queries, providing medication information, and setting reminders via Flask and WTForms, enhancing patient confidence and adherence.
 
